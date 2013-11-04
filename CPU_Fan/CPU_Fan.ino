@@ -75,8 +75,6 @@ void loop()
         speed = read_SmoothAnalog();
         
         
-        Serial.println(speed);
-        
         low = speed;
         high = baseTime - speed;        
 }
