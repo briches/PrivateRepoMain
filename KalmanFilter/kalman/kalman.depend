@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1397788967 source:c:\users\brandon\dropbox\github\privaterepomain\kalmanfilter\kalman\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Kalman.h"
+
+1397792007 c:\users\brandon\dropbox\github\privaterepomain\kalmanfilter\kalman\kalman.h
+
+1397788747 source:c:\users\brandon\dropbox\github\privaterepomain\kalmanfilter\kalman\kalman.h
+
